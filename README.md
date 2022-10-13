@@ -1,7 +1,7 @@
 # Developer-Landing-Page-9
 
 
-#### :mag: This is a sample website home page which demonstrates the street style theme!
+#### :mag: This is a sample website home page which demonstrates the tech services theme!
 
 #### 🖥️ Tech used: HTML & CSS
 
